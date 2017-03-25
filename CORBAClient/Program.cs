@@ -10,6 +10,7 @@ namespace CORBAClient
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
